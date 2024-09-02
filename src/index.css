@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@layer utilities {
+  .gradient {
+    @apply bg-gradient-to-br from-gray-400 via-gray-700 to-black;
+  }
+  .gradient-title {
+    @apply gradient text-transparent bg-clip-text;
+  }
+}
