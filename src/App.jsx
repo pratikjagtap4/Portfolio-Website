@@ -33,7 +33,7 @@ function App() {
       name: "Hirrd - Job Portal Website",
       tech: "Technologies Use: HTML , CSS , Tailwind , JavaScript , React , React hook from , Clerk, Supabase , Zod.",
       duration: "08/2024 - 09/2024",
-      link: "https://job-portal-project-virid.vercel.app/",
+      link: "https://hirrd-get-job.vercel.app/",
       desc: "Developed a full-featured job portal. Implemented user authentication and verification with Clerk, enabling users to sign up and log in to access the platform.The portal supports dual roles: candidates can search and apply for jobs, while recruiters can post job listings, review applications, and make hiring decisions.Job data is stored in Supabase, and users can save jobs for future reference, with filtering options based on location, company, and job role.",
     },
     {
@@ -41,7 +41,7 @@ function App() {
       name: "Blogging.Com",
       tech: "Technologies Use: HTML , CSS , Tailwind , JavaScript , React , React hook from , AppWrite.",
       duration: "07/2024 - 08/2024",
-      link: "https://blogging-app-with-appwrite.vercel.app/",
+      link: "https://blogging-dot-com.vercel.app/",
       desc: "Developed a dynamic blogging platform. Implemented user authentication and verification through Appwrite, allowing users to sign up, log in, access the platform, read blogs, and publish new content. Utilized Appwrite's database to store all blogs and user information. Integrated a rich text editor to enhance blog formatting, enabling users to create visually appealing titles and highlight key sections of their content.",
     },
     {
