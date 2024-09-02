@@ -6,14 +6,14 @@ import { UserProvider } from './context/UserDetails'
 function App() {
   const education = [
     {
-      image: "./src/assets/college.jpeg",
+      image: "./assets/college.jpeg",
       qualification: "Bachelor`s of Engineering in Computer Science",
       college: "AISSMS College Engineering, Pune",
       duration: "08/2019 - 06/2023",
       score: "8.46 CGPA"
     },
     {
-      image: "./src/assets/fc.jpeg",
+      image: "./assets/fc.jpeg",
       qualification: `Juniour College (12th Science)`,
       college: "Fergusson Junior College and University, Pune",
       duration: "08/2016 - 03/2018",
@@ -45,7 +45,7 @@ function App() {
       desc: "Developed a dynamic blogging platform. Implemented user authentication and verification through Appwrite, allowing users to sign up, log in, access the platform, read blogs, and publish new content. Utilized Appwrite's database to store all blogs and user information. Integrated a rich text editor to enhance blog formatting, enabling users to create visually appealing titles and highlight key sections of their content.",
     },
     {
-      image: "./src/assets/myntra.png",
+      image: "./assets/myntra.png",
       name: "Myntra Functional Clone",
       tech: "Technologies Use: HTML , CSS , BootStrap , JavaScript , React.",
       duration: "07/2024 - 07/2024",
@@ -54,7 +54,7 @@ function App() {
 
     },
     {
-      image: "./src/assets/reactjs.jpg",
+      image: "./assets/reactjs.jpg",
       name: "Developed a Grocery Shop Web Site",
       tech: "Technologies Use: HTML , CSS , BootStrap , JavaScript , Angular.",
       duration: "08/2023 - 09/2023",
@@ -63,7 +63,7 @@ function App() {
 
     },
     {
-      image: "./src/assets/python2.jpeg",
+      image: "./assets/python2.jpeg",
       name: "Intrusion Detection System using Machine Learning",
       tech: "Technologies Use: Python , Machine Learning SQL , Tkinter , Spyder",
       duration: "08/2022 - 05/2023",
@@ -72,7 +72,7 @@ function App() {
 
     },
     {
-      image: "./src/assets/sql.png",
+      image: "./assets/sql.png",
       name: "Created a Housing Management System Using Python and SQL",
       tech: "Technologies Use: Python , SQL.",
       duration: "09/2021 - 10/2021",
